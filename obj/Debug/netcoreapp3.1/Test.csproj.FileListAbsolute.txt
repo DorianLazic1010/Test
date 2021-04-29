@@ -1,0 +1,15 @@
+C:\Users\doria\Desktop\Nova mapa (4)\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\doria\Desktop\Nova mapa (4)\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\doria\Desktop\Nova mapa (4)\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\doria\Desktop\Nova mapa (4)\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\doria\Desktop\Nova mapa (4)\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\doria\Desktop\Nova mapa (4)\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\doria\Desktop\Nova mapa (4)\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\doria\Desktop\Nova mapa (4)\Test\obj\Debug\netcoreapp3.1\Test.Form1.resources
+C:\Users\doria\Desktop\Nova mapa (4)\Test\obj\Debug\netcoreapp3.1\Test.csproj.GenerateResource.cache
+C:\Users\doria\Desktop\Nova mapa (4)\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\doria\Desktop\Nova mapa (4)\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\doria\Desktop\Nova mapa (4)\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\doria\Desktop\Nova mapa (4)\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\doria\Desktop\Nova mapa (4)\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\doria\Desktop\Nova mapa (4)\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
